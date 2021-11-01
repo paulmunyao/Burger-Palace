@@ -52,5 +52,15 @@ button{
 .menu{
     height: 400px;
 }
-
+.cart{
+    box-shadow: 0 3px 2px 4px brown;
+    border-radius: 25px;
+    height: 160px;
+    margin: 50px 0;
+    padding: 90px 0;
+    text-align: center;
+}
+.cartfood{
+    display: flex;
+}
 
