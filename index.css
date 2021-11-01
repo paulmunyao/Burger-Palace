@@ -37,17 +37,17 @@ button{
     height: 400px;
 }
 .services1{
-    box-shadow: 0 3px 2px 4px cyan;
+    box-shadow: 0 3px 2px 4px brown;
     border-radius: 25px;
     padding: 70px 0;
     margin: 70px;
 }
 .services2{
-    box-shadow: 0 3px 2px 4px cyan;
+    box-shadow: 0 3px 2px 4px brown;
     border-radius: 25px;
     height: 400px;
     margin: 50px 0;
-    padding: 100px 0;
+    padding: 90px 0;
 }
 
 
