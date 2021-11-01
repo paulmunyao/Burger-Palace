@@ -58,7 +58,7 @@ button{
 .cart{
     box-shadow: 0 3px 2px 4px brown;
     border-radius: 25px;
-    height: 160px;
+    height: 250px;
     margin: 50px 30px;
     padding: 90px 0;
     text-align: center;
@@ -85,11 +85,3 @@ button{
     display: inline;
     text-align: center;
 }
-
-/* .nav{
-    display: inline;
-    float: right;
-    margin-right: 40px; 
-    font-size: 20px;
-    font: bold;
-} */
