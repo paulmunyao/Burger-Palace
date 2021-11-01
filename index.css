@@ -74,6 +74,7 @@ button{
 }
 .showcase{
     display: flex;
+    /* height: 400px; */
 }
 
 
