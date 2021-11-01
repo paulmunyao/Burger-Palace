@@ -16,13 +16,15 @@ body{
 .nav{
     display: inline;
     float: right;
-    margin-right: 40px; 
+    margin-right: 405px; 
     font-size: 20px;
     font: bold;
+    justify-content: space-between;
+    list-style: none;
 } 
  #img{
     width: 200px;
-    height: 300px;
+    height: 350px;
     float: right;
     display: flex;
     padding: 0 60px;
@@ -68,13 +70,26 @@ button{
     height: 400px;
     background-color: cadetblue;
 }
+.double b{
+    display: flex;
+    height: 1000;
+}
 .mobile{
     height: 800px;
     background-color: #F6B400;
 }
 .showcase{
     display: flex;
-    /* height: 400px; */
+}
+.reco{
+    display: inline;
+    text-align: center;
 }
 
-
+/* .nav{
+    display: inline;
+    float: right;
+    margin-right: 40px; 
+    font-size: 20px;
+    font: bold;
+} */
