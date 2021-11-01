@@ -1,4 +1,5 @@
 body{
+    position: relative;
     font-family: Poppin;
 }
 #start{
@@ -50,7 +51,7 @@ button{
     padding: 90px 0;
 }
 .menu{
-    height: 400px;
+    height: 1000px ;
 }
 .cart{
     box-shadow: 0 3px 2px 4px brown;
@@ -63,4 +64,13 @@ button{
 .cartfood{
     display: flex;
 }
+.decker {
+    height: 400px;
+    background-color: cadetblue;
+}
+.mobile{
+    height: 800px;
+    background-color: #F6B400;
+}
+
 
