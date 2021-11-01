@@ -34,6 +34,13 @@ button{
 .services{
     display: flex;
     text-align: center;
+    height: 400px;
+}
+.services1{
+    box-shadow: 0 3px 2px 4px cyan;
+    border-radius: 25px;
+    padding: 40px 0;
+    margin: 20px;
 }
 
 
