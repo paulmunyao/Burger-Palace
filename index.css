@@ -31,5 +31,9 @@ button{
     background-color: #F6B400;
     text-decoration-color: white;
 }
+.services{
+    display: flex;
+    text-align: center;
+}
 
 
