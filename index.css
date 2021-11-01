@@ -68,7 +68,7 @@ button{
 }
 .decker {
     height: 400px;
-    background-color: cadetblue;
+    color: rgb(247,253,246);
 }
 .double b{
     display: flex;
