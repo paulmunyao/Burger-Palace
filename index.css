@@ -67,8 +67,8 @@ button{
 .cartfood{
     display: flex;
 }
-.decker {
-    height: 300px;
+.decker{
+    height: 500px;
     color: rgb(247,253,246);
 }
 .double b{
@@ -76,7 +76,7 @@ button{
     height: 1000;
 }
 .mobile{
-    height: 800px;
+    height: 500px;
     background-color: #F6B400;
 }
 .showcase{
