@@ -2,8 +2,7 @@
 
 The project is about landing pages for a restaurant website where the restaurant sells burgers to it's customers.
 The purpose of te project is to create landing pages for a restaurant website.
-Name of Author:Paul Munyao Mutiso
-Date:2nd November 2021
+Name of Author:Paul Munyao Mutiso<br>Date:2nd November 2021
 
 # MIT License
 
@@ -26,6 +25,7 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
 
 
 
