@@ -11,6 +11,7 @@ body {
 .logo {
   display: flex;
   height: 80px;
+  margin-top: 40px;
 }
 
 .logo h1{
