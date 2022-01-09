@@ -12,6 +12,10 @@ body {
   display: flex;
 }
 
+.logo h1{
+    font-family: "Oleo Script Swash Caps";
+}
+
 .burger {
   height: 400px;
 }
