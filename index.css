@@ -43,6 +43,7 @@ body {
     width: 150px;
     background-color: rgba(255, 115, 0, 0.685);
     color: white;
+    font-size: 17px;
 }
 
 .burger {
