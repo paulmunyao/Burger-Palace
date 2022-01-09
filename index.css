@@ -10,6 +10,7 @@ body {
 
 .logo {
   display: flex;
+  height: 80px;
 }
 
 .logo h1{
