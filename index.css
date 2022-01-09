@@ -37,6 +37,8 @@ body {
 .btn{
     margin-left: 100px;
     border-radius: 50px 50px 0px 50px;
+    height: 60px;
+    width: 150px;
 }
 
 .burger {
