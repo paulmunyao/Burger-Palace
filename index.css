@@ -64,15 +64,15 @@ body {
   list-style: none;
 }
 
-#img {
+/* #img {
   width: 200px;
   height: 350px;
   float: right;
   display: flex;
   padding: 0 60px;
-}
+} */
 
-button {
+buttot {
   border-radius: 25px;
   background-color: #f6b400;
   text-decoration-color: white;
