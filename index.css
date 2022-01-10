@@ -72,11 +72,11 @@ body {
   padding: 0 60px;
 }
 
-buttot {
+/* buttot {
   border-radius: 25px;
   background-color: #f6b400;
   text-decoration-color: white;
-}
+} */
 
 .services {
   display: flex;
