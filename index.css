@@ -3,10 +3,9 @@ body {
   padding: 0px;
   margin: 0px;
   /* background: linear-gradient(112deg, rgb(255, 255, 255) 50%, #fbc130 0%); */
-  /* font-family: Poppin; */
 }
 
-.start {
+.section {
   height: 900px;
   background: linear-gradient(112deg, rgb(255, 255, 255) 50%, #fbc130 0%);
 }
@@ -20,7 +19,6 @@ body {
 .logo h1 {
   font-family: "Oleo Script Swash Caps";
   font-size: 40px;
-  /* margin-top: -1px; */
 }
 
 .custom h1 {
