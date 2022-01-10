@@ -64,13 +64,13 @@ body {
   list-style: none;
 }
 
-/* #img {
+#img {
   width: 200px;
   height: 350px;
   float: right;
   display: flex;
   padding: 0 60px;
-} */
+}
 
 buttot {
   border-radius: 25px;
