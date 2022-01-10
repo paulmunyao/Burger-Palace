@@ -5,7 +5,7 @@ body {
 }
 
 .section {
-  /* height: 800px; */
+  height: 500px;
   background: linear-gradient(112deg, rgb(255, 255, 255) 50%, #fbc130 0%);
   margin-right: 40px;
   /* margin-top: -40px; */
