@@ -58,7 +58,7 @@ body {
   float: right;
   margin-right: 405px;
   font-size: 40px;
-  font: bold;
+  font-weight: bold;
   justify-content: space-between;
   list-style: none;
 }
