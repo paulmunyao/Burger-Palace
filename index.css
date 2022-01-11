@@ -83,10 +83,11 @@ body {
   margin-right: 270px;
 }
 
-.cat img {
+.nav img {
+  /* position: relative; */
   height: 50px;
-  margin-bottom: 900px;
-  margin-left: 1300px;
+  /* margin-bottom: 900px;
+  margin-left: 1300px; */
 }
 
 /* buttot {
