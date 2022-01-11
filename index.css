@@ -71,11 +71,11 @@ body {
 .nav ul::after {
   content: "";
   display: block;
-  height: 2px;
-  width: 100px;
+  height: 10px;
+  width: 50px;
   background-color: #ee7600;
-  margin-left: 60px;
-  margin-top: 20px;
+  margin-left: 82px;
+  margin-top: 10px;
 }
 
 #img {
