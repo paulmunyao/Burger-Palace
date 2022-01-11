@@ -84,7 +84,7 @@ body {
 }
 
 .nav img {
-  /* position: relative; */
+  color: black;
   height: 40px;
   float: right;
   margin-top: -80px;
