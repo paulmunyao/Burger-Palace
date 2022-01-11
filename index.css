@@ -49,15 +49,15 @@ body {
   font-size: 17px;
 }
 
-.burger {
+/* .burger {
   height: 400px;
-}
+} */
 
 .nav {
   display: inline;
   float: right;
-  margin-right: 405px;
-  font-size: 30px;
+  margin-right: 345px;
+  font-size: 25px;
   font-weight: bold;
   font-family: "Roboto";
   justify-content: space-between;
