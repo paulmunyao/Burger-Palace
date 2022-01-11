@@ -64,8 +64,8 @@ body {
 }
 
 #img {
-  width: 200px;
-  height: 350px;
+  width: 500px;
+  height: 700px;
   float: right;
   display: flex;
   padding: 0 60px;
