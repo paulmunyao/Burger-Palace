@@ -85,9 +85,10 @@ body {
 
 .nav img {
   /* position: relative; */
-  height: 50px;
-  /* margin-bottom: 900px;
-  margin-left: 1300px; */
+  height: 40px;
+  float: right;
+  margin-top: -80px;
+  margin-right: -150px;
 }
 
 /* buttot {
