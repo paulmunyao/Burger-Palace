@@ -67,8 +67,9 @@ body {
   width: 500px;
   height: 700px;
   float: right;
-  display: flex;
-  padding: 0 60px;
+  margin-right: 220px;
+  /* display: flex; */
+  /* padding: 0 60px; */
 }
 
 /* buttot {
