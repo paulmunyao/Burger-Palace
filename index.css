@@ -68,6 +68,16 @@ body {
   margin-left: 80px;
 }
 
+.nav ul::after {
+  content: "";
+  display: block;
+  height: 2px;
+  width: 100px;
+  background-color: #ee7600;
+  margin-left: 60px;
+  margin-top: 20px;
+}
+
 #img {
   width: 500px;
   height: 700px;
