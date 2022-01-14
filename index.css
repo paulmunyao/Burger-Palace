@@ -103,7 +103,7 @@ body {
 
 .services1 {
   box-shadow: 0px 0px 1px 1px brown;
-  border-radius: 50px 50px 50px 50px;
+  border-radius: 20px 20px 20px 20px;
   padding: 90px 0;
   margin: 50px 30px;
   height: 300px;
@@ -123,7 +123,7 @@ body {
 
 .services2 {
   box-shadow: 0px 0px 1px 1px brown;
-  border-radius: 50px 50px 50px 50px;
+  border-radius: 20px 20px 20px 20px;
   height: 400px;
   width: 700px;
   margin: 50px 30px;
