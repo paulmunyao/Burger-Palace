@@ -115,11 +115,16 @@ body {
   font-size: 40px;
 }
 
+.services1 p{
+  font-size: 30px;
+  text-align: center;
+}
+
 .services2 {
   box-shadow: 0px 0px 1px 1px brown;
   border-radius: 5px;
   height: 400px;
-  width: 900px;
+  width: 700px;
   margin: 50px 30px;
   padding: 90px 0;
 }
