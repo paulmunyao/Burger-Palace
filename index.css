@@ -91,7 +91,7 @@ body {
   margin-right: -150px;
 }
 
-.section2{
+.section2 {
   height: 1000px;
 }
 .services {
@@ -111,11 +111,12 @@ body {
   margin-top: 100px;
 }
 
-.services1 h1{
+.services1 h1 {
   font-size: 40px;
+  color: rgb(97, 8, 8);
 }
 
-.services1 p{
+.services1 p {
   font-size: 30px;
   text-align: center;
 }
@@ -129,8 +130,14 @@ body {
   padding: 90px 0;
 }
 
-.services2 h1{
+.services2 h1 {
   font-size: 40px;
+  color: rgb(97, 8, 8);
+}
+
+.services2 p {
+  font-size: 30px;
+  text-align: center;
 }
 
 .menu {
