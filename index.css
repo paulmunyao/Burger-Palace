@@ -90,6 +90,24 @@ body {
   margin-right: -150px;
 }
 
+.dot {
+  height: 25px;
+  width: 23px;
+  background-color: orange;
+  border-radius: 50%;
+  display: inline-block;
+  margin-left: 120px;
+  border: 3px;
+  display: flex;
+  padding: 4px;
+  padding-left: 10px;
+  position: relative;
+  margin-top: 15px;
+  font-size: medium;
+  text-align: center;
+  color: white;
+}
+
 .section2 {
   height: 1000px;
   background-color: #f0f8ff;
