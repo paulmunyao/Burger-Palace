@@ -91,7 +91,6 @@ body {
   margin-right: -150px;
 }
 
-
 .services {
   display: flex;
   text-align: center;
@@ -105,6 +104,7 @@ body {
   margin: 50px 30px;
   height: 90;
 }
+
 .services2 {
   box-shadow: 0 1px 1px 1px brown;
   border-radius: 5px;
@@ -112,9 +112,11 @@ body {
   margin: 50px 30px;
   padding: 90px 0;
 }
+
 .menu {
   height: 1000px;
 }
+
 .cart {
   box-shadow: 0 3px 2px 4px brown;
   border-radius: 25px;
@@ -123,24 +125,30 @@ body {
   padding: 90px 0;
   text-align: center;
 }
+
 .cartfood {
   display: flex;
 }
+
 .decker {
   height: 500px;
   color: rgb(247, 253, 246);
 }
+
 .double b {
   display: flex;
   height: 1000;
 }
+
 .mobile {
   height: 500px;
   background-color: #f6b400;
 }
+
 .showcase {
   display: flex;
 }
+
 .reco {
   display: inline;
   text-align: center;
