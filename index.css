@@ -111,6 +111,10 @@ body {
   margin-top: 100px;
 }
 
+.services1 h1{
+  font-size: 40px;
+}
+
 .services2 {
   box-shadow: 0px 0px 1px 1px brown;
   border-radius: 5px;
