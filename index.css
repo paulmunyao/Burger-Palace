@@ -165,13 +165,13 @@ body {
   height: 1000px;
 }
 
-.menu h1::after {
+#men h1::after {
   content: "";
   display: block;
   height: 2px;
   width: 115px;
   background-color: #ee7600;
-  margin-left: 495px;
+  margin-left: 700px;
   margin-top: 20px;
 }
 
