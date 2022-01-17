@@ -176,7 +176,7 @@ body {
 }
 
 .cart {
-  box-shadow: 0 3px 2px 4px grey;
+  box-shadow: 0 3px 2px 4px #D4D4D4;
   border-radius: 70px;
   height: 250px;
   margin: 50px 30px;
