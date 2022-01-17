@@ -187,6 +187,16 @@ body {
   display: flex;
 }
 
+.Lorem{
+  font-size: 20px;
+  text-align: center;
+  color: gray;
+}
+
+.cart h1{
+  margin-top: 200px;
+}
+
 .decker {
   height: 500px;
   color: rgb(247, 253, 246);
