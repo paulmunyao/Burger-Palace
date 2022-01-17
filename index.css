@@ -176,8 +176,8 @@ body {
 }
 
 .cart {
-  box-shadow: 0 3px 2px 4px brown;
-  border-radius: 25px;
+  box-shadow: 0 3px 2px 4px grey;
+  border-radius: 70px;
   height: 250px;
   margin: 50px 30px;
   padding: 90px 0;
