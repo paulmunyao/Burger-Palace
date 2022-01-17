@@ -165,6 +165,16 @@ body {
   height: 1000px;
 }
 
+.menu h1::after {
+  content: "";
+  display: block;
+  height: 2px;
+  width: 115px;
+  background-color: #ee7600;
+  margin-left: 495px;
+  margin-top: 20px;
+}
+
 .cart {
   box-shadow: 0 3px 2px 4px brown;
   border-radius: 25px;
