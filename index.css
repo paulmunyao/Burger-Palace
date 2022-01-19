@@ -176,10 +176,10 @@ body {
 }
 
 .cart {
-  box-shadow: 0 3px 2px 4px #D4D4D4;
+  box-shadow: 0 3px 2px 4px #d4d4d4;
   border-radius: 70px;
   height: 650px;
-  margin: 50px;
+  margin-left: 100px;
   text-align: center;
 }
 
@@ -187,13 +187,12 @@ body {
   display: flex;
 }
 
-.Lorem{
+.Lorem {
   font-size: 20px;
-  text-align: center;
   color: gray;
 }
 
-.cart h1{
+.cart h1 {
   margin-top: 200px;
 }
 
