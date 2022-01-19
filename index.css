@@ -180,13 +180,14 @@ body {
   border-radius: 70px;
   height: 650px;
   width: 700px;
-  margin-left: 100px;
+  margin-left: 80px;
   text-align: center;
   margin-top: 50px;
 }
 
 .cartfood {
   display: flex;
+  margin-right: 80px;
 }
 
 .Lorem {
