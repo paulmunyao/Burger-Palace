@@ -200,6 +200,11 @@ body {
   color: maroon;
 }
 
+.cart p1{
+  font-size: 20px;
+  text-align: center;
+}
+
 .decker {
   height: 500px;
   color: rgb(247, 253, 246);
