@@ -210,7 +210,7 @@ body {
 .pesa{
    font-size: 30px;
    font-weight: 600;
-   color: black;
+   margin-left: -170px;
    font-family: "Roboto"; 
 }
 
