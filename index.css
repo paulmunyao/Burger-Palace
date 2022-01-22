@@ -208,7 +208,8 @@ body {
 
 .pesa{
    font-size: 30px;
-   font-weight: bold;
+   font-weight: 800px;
+   font-family: "Roboto"; 
 }
 
 .decker {
