@@ -115,6 +115,7 @@ body {
   height: 1000px;
   background-color: #f0f8ff;
 }
+
 .services {
   display: flex;
   text-align: center;
@@ -208,7 +209,7 @@ body {
 
 .pesa{
    font-size: 30px;
-   font-weight: 800px;
+   font-weight: 550;
    font-family: "Roboto"; 
 }
 
