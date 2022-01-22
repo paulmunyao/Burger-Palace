@@ -206,6 +206,11 @@ body {
  
 }
 
+.pesa{
+   font-size: 30px;
+   font-weight: bold;
+}
+
 .decker {
   height: 500px;
   color: rgb(247, 253, 246);
