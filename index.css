@@ -220,10 +220,15 @@ body {
   margin-bottom: 100px;
 }
 
-.decker {
-  height: 500px;
-  background-color: #f0f8ff;
+.section3{
+height: 1000px;
+background-color: #f0f8ff;
 }
+
+/* .decker {
+  height: 1000px;
+  
+} */
 
 .double b {
   display: flex;
