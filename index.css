@@ -234,7 +234,7 @@ body {
 }
 
 /* .decker{
-  margin-top: 300px;
+  margin-bottom: -300px;
 } */
 
 #mbili {
@@ -249,13 +249,13 @@ body {
   color: orange;
   font-size: 70px;
   font-family: Roboto;
-  margin-top: -20px;
+  margin-top: 100px;
 }
 
 #nne {
   font-size: 25px;
   color: #000;
-  /* margin-bottom: -450px; */
+  margin-top: 300px;
 }
 
 .double b {
