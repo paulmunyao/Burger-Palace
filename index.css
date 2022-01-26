@@ -225,6 +225,10 @@ body {
   margin-top: 250px;
 }
 
+.section3 img {
+  width: 800px;height: 800px; float: right; margin-top: 300px; margin-right: 50px
+}
+
 /* .decker h1 {
   margin-bottom: 200px;
 } */
@@ -246,7 +250,7 @@ body {
 #nne{
   font-size: 25px;
    color: #000;
-   margin-bottom: -450px;
+   /* margin-bottom: -450px; */
 }
 
 .double b {
