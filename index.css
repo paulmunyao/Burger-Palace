@@ -225,37 +225,36 @@ body {
   margin-top: 250px;
 }
 
-#tano {
+.tano {
   width: 800px;
   height: 800px;
-  float: right;
-  margin-top: -200px;
+  margin-left: 700px;
   margin-right: 50px;
 }
 
-/* .decker{
-  margin-bottom: -300px;
-} */
+.decker{
+  margin-bottom: -100px;
+}
 
-#mbili {
+.mbili {
   font-weight: bold;
   font-size: 70px;
   font-family: Roboto;
   color: black;
-  /* margin-top: 20px; */
+  margin-bottom: 100px;
 }
 
-#tatu {
+.tatu {
   color: orange;
   font-size: 70px;
   font-family: Roboto;
-  margin-top: 100px;
+  /* margin-top: 100px; */
 }
 
-#nne {
+.nne {
   font-size: 25px;
   color: #000;
-  margin-top: 300px;
+  /* margin-top: 300px; */
 }
 
 .double b {
