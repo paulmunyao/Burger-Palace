@@ -226,10 +226,9 @@ background-color: #f0f8ff;
 margin-top: 250px;
 }
 
-.decker {
-  height: 500px;
-  
-}
+/* .decker h1 {
+  margin-bottom: 200px;
+} */
 
 .double b {
   display: flex;
