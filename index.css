@@ -236,6 +236,13 @@ body {
   color: black;
 }
 
+#tatu{
+  color:orange;
+  font-size: 70px;
+  font-family:Roboto;
+  margin-top: -20px;
+}
+
 .double b {
   display: flex;
   height: 1000;
