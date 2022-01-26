@@ -202,40 +202,45 @@ body {
   color: maroon;
 }
 
-.cart p1{
+.cart p1 {
   font-size: 20px;
- 
 }
 
-.pesa{
-   font-size: 30px;
-   font-weight: 600;
-   margin-right: 170px;
-   margin-top: 30px;
-   font-family: "Roboto"; 
+.pesa {
+  font-size: 30px;
+  font-weight: 600;
+  margin-right: 170px;
+  margin-top: 30px;
+  font-family: "Roboto";
 }
 
-#shop{
+#shop {
   margin-left: 200px;
   margin-bottom: 100px;
 }
 
-.section3{
-height: 1100px;
-background-color: #f0f8ff;
-margin-top: 250px;
+.section3 {
+  height: 1100px;
+  background-color: #f0f8ff;
+  margin-top: 250px;
 }
 
 /* .decker h1 {
   margin-bottom: 200px;
 } */
 
+#mbili {
+  font-weight: bold;
+  font-size: 70px;
+  font-family: Roboto;
+}
+
 .double b {
   display: flex;
   height: 1000;
 }
 
-#mbili{
+#mbili {
   margin-top: 200px;
 }
 
