@@ -226,7 +226,11 @@ body {
 }
 
 .section3 img {
-  width: 800px;height: 800px; float: right; margin-top: 300px; margin-right: 50px
+  width: 800px;
+  height: 800px;
+  float: right;
+  margin-top: 300px;
+  margin-right: 50px;
 }
 
 /* .decker h1 {
@@ -240,17 +244,17 @@ body {
   color: black;
 }
 
-#tatu{
-  color:orange;
+#tatu {
+  color: orange;
   font-size: 70px;
-  font-family:Roboto;
+  font-family: Roboto;
   margin-top: -20px;
 }
 
-#nne{
+#nne {
   font-size: 25px;
-   color: #000;
-   /* margin-bottom: -450px; */
+  color: #000;
+  /* margin-bottom: -450px; */
 }
 
 .double b {
