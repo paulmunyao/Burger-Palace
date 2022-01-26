@@ -243,6 +243,12 @@ body {
   margin-top: -20px;
 }
 
+#nne{
+  font-size: 25px;
+   color: #000;
+   margin-bottom: -450px;
+}
+
 .double b {
   display: flex;
   height: 1000;
