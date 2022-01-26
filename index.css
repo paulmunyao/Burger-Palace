@@ -225,7 +225,7 @@ body {
   margin-top: 250px;
 }
 
-.section3 img {
+#tano {
   width: 800px;
   height: 800px;
   float: right;
@@ -233,8 +233,8 @@ body {
   margin-right: 50px;
 }
 
-/* .decker h1 {
-  margin-bottom: 200px;
+/* .decker{
+  margin-top: 300px;
 } */
 
 #mbili {
@@ -242,6 +242,7 @@ body {
   font-size: 70px;
   font-family: Roboto;
   color: black;
+  /* margin-top: 20px; */
 }
 
 #tatu {
