@@ -272,6 +272,10 @@ body {
   background-color: #f6b400;
 }
 
+.mobile p{
+  font-size: 50px;
+}
+
 .rununu {
   height: 800px;
   margin-top: 80px;
