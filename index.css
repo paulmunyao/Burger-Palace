@@ -230,25 +230,26 @@ body {
   height: 800px;
   margin-left: 700px;
   margin-right: 50px;
+  margin-top: -200px;
 }
 
-.decker{
+/* .decker{
   margin-bottom: -100px;
-}
+} */
 
 .mbili {
   font-weight: bold;
   font-size: 70px;
   font-family: Roboto;
   color: black;
-  margin-bottom: 100px;
+  /* margin-bottom: -500px; */
 }
 
 .tatu {
   color: orange;
   font-size: 70px;
   font-family: Roboto;
-  /* margin-top: 100px; */
+  margin-top: 100px;
 }
 
 .nne {
@@ -267,7 +268,7 @@ body {
 }
 
 .mobile {
-  height: 500px;
+  height: 1000px;
   background-color: #f6b400;
 }
 
