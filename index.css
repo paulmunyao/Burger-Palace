@@ -302,6 +302,10 @@ body {
   font-size: 40px;
 }
 
+.showcase img{
+   height: 80px;
+}
+
 .reco {
   display: inline;
   text-align: center;
