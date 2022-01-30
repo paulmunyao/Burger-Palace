@@ -308,6 +308,7 @@ body {
 }
 
 .reco {
-  display: inline;
+  /* display: inline; */
   text-align: center;
+  font-size: 20px;
 }
