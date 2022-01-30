@@ -272,9 +272,9 @@ body {
   background-color: #f6b400;
 }
 
-.dis{
+#dis{
   font-size: 70px;
-  margin-top: 250px;
+  /* margin-top: -350px; */
 }
 
 .rununu {
