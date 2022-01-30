@@ -293,6 +293,10 @@ body {
   list-style-type: none;
 }
 
+.footer ul{
+  margin-left: 500px;
+}
+
 .showcase {
   display: flex;
 }
