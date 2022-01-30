@@ -300,6 +300,7 @@ body {
 .showcase h1{
   font-family: "Oleo Script Swash Caps";
   font-size: 40px;
+  margin-top: 40px;
 }
 
 .showcase img{
