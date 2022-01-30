@@ -297,6 +297,11 @@ body {
   display: flex;
 }
 
+.showcase h1{
+  font-family: "Oleo Script Swash Caps";
+  font-size: 40px;
+}
+
 .reco {
   display: inline;
   text-align: center;
