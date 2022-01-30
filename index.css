@@ -291,10 +291,13 @@ body {
 
 .footer ul li{
   list-style-type: none;
+  font-size: 30px;
+  /* margin-bottom: -60px; */
 }
 
 .footer ul{
   margin-left: 500px;
+  
 }
 
 .showcase {
