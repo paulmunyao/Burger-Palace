@@ -299,6 +299,7 @@ body {
 
 .showcase {
   display: flex;
+  
 }
 
 .showcase h1{
@@ -315,4 +316,5 @@ body {
   /* display: inline; */
   text-align: center;
   font-size: 20px;
+  margin-right: 300px;
 }
