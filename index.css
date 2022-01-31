@@ -322,8 +322,9 @@ body {
 }
 
 .subscription{
+  font-size: 20px;
   margin-top: 200px;
   position: relative;
   left: 1000px;
-  bottom: 300px
+  bottom: 300px;
 }
