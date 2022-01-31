@@ -273,7 +273,7 @@ body {
   background-color: #f6b400;
 }
 
-#dis{
+#dis {
   font-size: 70px;
   /* margin-top: -350px; */
 }
@@ -285,33 +285,32 @@ body {
   position: relative;
 }
 
-.final{
+.final {
   height: 400px;
 }
 
-.footer ul li{
+.footer ul li {
   list-style-type: none;
   font-size: 30px;
   margin-bottom: -85px;
 }
 
-.footer ul{
+.footer ul {
   margin-left: 500px;
 }
 
 .showcase {
   display: flex;
-  
 }
 
-.showcase h1{
+.showcase h1 {
   font-family: "Oleo Script Swash Caps";
   font-size: 40px;
   margin-top: 40px;
 }
 
-.showcase img{
-   height: 120px;
+.showcase img {
+  height: 120px;
 }
 
 .reco {
@@ -321,7 +320,7 @@ body {
   margin-right: 300px;
 }
 
-.subscription{
+.subscription {
   font-size: 19px;
   margin-top: 200px;
   position: relative;
@@ -335,9 +334,14 @@ body {
   bottom: 250px;
 }
 
-.form-control-plaintext{
+.form-control-plaintext {
   height: 60px;
   width: 250px;
   border-radius: 10px 10px 10px 10px;
-  
+}
+
+.btn {
+  height: 65px;
+  width: 250px;
+  border-radius: 10px 10px 10px 10px;
 }
