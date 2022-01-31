@@ -292,7 +292,7 @@ body {
 .footer ul li{
   list-style-type: none;
   font-size: 30px;
-  margin-bottom: -90px;
+  margin-bottom: -85px;
 }
 
 .footer ul{
@@ -319,4 +319,8 @@ body {
   text-align: center;
   font-size: 20px;
   margin-right: 300px;
+}
+
+.subscription{
+  margin-top: 200px;
 }
