@@ -335,4 +335,7 @@ body {
   bottom: 250px;
 }
 
-.
+.form-control-plaintext{
+  height: 60px;
+  width: 250px;
+}
