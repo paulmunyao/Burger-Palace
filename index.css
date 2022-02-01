@@ -348,3 +348,7 @@ body {
   background-color: rgba(255, 115, 0, 0.685);
   border: none;
 }
+
+.copyright {
+  font-size: 30px;
+}
