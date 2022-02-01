@@ -339,6 +339,10 @@ body {
   background-color: white;
 }
 
+input::placeholder{
+  font-size: 30px;
+}
+
 .btn {
   height: 76px;
   width: 350px;
