@@ -334,11 +334,13 @@ body {
   bottom: 250px;
 }
 
-.form-control-plaintext {
+#staticEmail2 {
   height: 60px;
   width: 250px;
   border-radius: 10px 10px 10px 10px;
-  position: absolute;
+  /* position: absolute; */
+  background-color: white;
+  /* margin-left: 100px; */
 }
 
 .btn {
@@ -347,6 +349,6 @@ body {
   border-radius: 10px 10px 10px 10px;
   background-color: rgba(255, 115, 0, 0.685);
   border: none;
-  position: relative;
-  left: 230px;
+  /* position: relative; */
+  /* left: 230px; */
 }
