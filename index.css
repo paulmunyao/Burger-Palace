@@ -356,8 +356,9 @@ body {
 .media {
   margin-left: 750px;
   font-size: 20px;
+  margin-top: -50px;
 }
 
-.media i{
+.media i {
   margin-left: 20px;
 }
