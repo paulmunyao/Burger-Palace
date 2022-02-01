@@ -341,10 +341,11 @@ body {
 
 .btn {
   height: 75px;
-  width: 250px;
+  width: 350px;
   border-radius: 10px 10px 10px 10px;
   background-color: yellow;
   border: none;
+  margin-left: -20px;
 }
 
 .copyright {
