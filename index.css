@@ -353,9 +353,11 @@ body {
   margin-left: 40px;
 }
 
-.media{
+.media {
   margin-left: 900px;
   font-size: 20px;
 }
 
-
+.media i{
+  margin-left: 20px;
+}
